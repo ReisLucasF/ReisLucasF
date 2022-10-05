@@ -1,4 +1,4 @@
-## Olá! EU sou o Lucas Filipe!
+## Olá! Eu sou o Lucas Reis!
 
 - Atualmente trabalho como assistente de TI;
 - Graduando em análise e desenvolvimento de sistemas;
