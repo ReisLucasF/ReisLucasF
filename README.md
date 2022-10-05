@@ -20,5 +20,4 @@
    
    ##
    
-  <img align="right" alt= height="150" style="border-radius:50px;" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
 </div>
