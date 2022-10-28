@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo!
-  <img align="right"  height="300" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
+  <img align="right"  height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
 
 - Graduando em análise e desenvolvimento de sistemas;
 - Desenvolvedor web front-end.
