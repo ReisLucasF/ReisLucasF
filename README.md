@@ -2,7 +2,9 @@
   <img align="right"  height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
 
 - Graduando em análise e desenvolvimento de sistemas;
-- Desenvolvedor web front-end.
+- Desenvolvedor web front-end;
+- Estagiário de TI;
+- Administrador de servidores microsoft e SharePoint
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisLucasF&layout=compact&langs_count=7&theme=dark"/>
