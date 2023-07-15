@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo(a) ao meu diretório especial do GitHub! 😄
+## Olá! Seja bem-vindo(a)! 😄
 
 <img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
 
