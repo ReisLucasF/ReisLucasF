@@ -34,4 +34,4 @@
 
 ![Programming GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-Sinta-se à vontade para explorar meus projetos e compartilhar ideias conosco! Se tiver alguma dúvida ou sugestão, não hesite em me contatar. Espero que você se divirta por aqui! 😊
+Sinta-se à vontade para explorar meus projetos e compartilhar ideias comigo! Se tiver alguma dúvida ou sugestão, não hesite em me contatar. 😊
