@@ -5,7 +5,6 @@
 ### Sobre mim:
 
 - Graduando em análise e desenvolvimento de sistemas 🎓
-- Desenvolvedor web front-end 💻
 
 ### Linguagens e tecnologias que utilizo:
 
