@@ -4,7 +4,8 @@
 
 ### Sobre mim:
 
-- Graduando em análise e desenvolvimento de sistemas 🎓
+- 🎓Graduando em análise e desenvolvimento de sistemas
+- 💼 Faço parte da equipe de Coordenação de Canais Digitais do Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo.
 
 ### Linguagens e tecnologias que utilizo:
 
