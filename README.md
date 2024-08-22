@@ -6,7 +6,7 @@
 
 - 🎓 Graduando em análise e desenvolvimento de sistemas
 - 💼 Integro a equipe de Coordenação de Canais Digitais no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo com o apoio de toda a equipe.
-
+- 👨‍💼 sou co-fundador da Devos Alliance, uma empresa especializada no desenvolvimento de software sob demanda. Temos como clientes importantes instituições públicas, incluindo a Prefeitura de João Pessoa, SEDURB PB, CRECI PB, SEBRAE PB, e OAB PB, entre outras empresas do setor privado.
 
 ### Linguagens e tecnologias que utilizo:
 
