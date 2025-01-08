@@ -1,13 +1,28 @@
-## Olá! Seja bem-vindo(a)! 😄
+## Olá! Seja bem-vindo(a)! 😄  
 
-<img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
+<img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">  
 
-### Sobre mim:
+### Sobre mim  
 
-- 🎓 Graduando em análise e desenvolvimento de sistemas
-- 💼 Integro a equipe de Coordenação de Canais Digitais no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo com o apoio de toda a equipe.
-- 👨‍💼 sou co-fundador da Devos Alliance, uma empresa especializada no desenvolvimento de software sob demanda. Temos como clientes importantes instituições públicas, incluindo a Prefeitura de João Pessoa, SEDURB PB, CRECI PB, SEBRAE PB, e OAB PB, entre outras empresas do setor privado.
+🎓 **Formação Acadêmica:**  
+Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas. Minha formação sólida é focada em desenvolvimento de software de alta qualidade e soluções tecnológicas inovadoras.  
 
+💼 **Experiência Profissional:**  
+- **Fundador e CTO** de uma empresa especializada em desenvolvimento de software sob demanda, atendendo clientes do setor público e privado.  
+- Integro a **equipe de Coordenação de Canais Digitais** no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo.  
+
+📌 **Principais Projetos:**  
+- Desenvolvimento do **Website Oficial da Prefeitura de João Pessoa**.  
+- Criação do **Sistema de Gestão Urbana** para a SEDURB JP, otimizando processos administrativos e de controle.  
+- Implementação do **Sistema de Controle de Refeições** para uma unidade hospitalar de alta demanda, garantindo eficiência na gestão.  
+- Participação em projetos do **ALI (Agente Local de Inovação) - SEBRAE PB**, promovendo transformação digital para pequenos empresários e seus negócios.  
+
+🌟 **Destaques Pessoais:**  
+- Apaixonado por **inovação tecnológica** e pela criação de soluções que conectam eficiência e impacto social.  
+- Combino habilidades técnicas, visão estratégica e liderança para entregar resultados de alto valor.  
+- Experiência em coordenação de equipes multidisciplinares, sempre buscando criar um impacto positivo através da tecnologia.  
+
+---
 ### Linguagens e tecnologias que utilizo:
 
 <div style="display: inline_block"><br>
@@ -34,4 +49,4 @@
 
 ![Programming GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-Sinta-se à vontade para explorar meus projetos e compartilhar ideias comigo! Se tiver alguma dúvida ou sugestão, não hesite em me contatar. 😊
+> _"A tecnologia é a ponte entre ideias e soluções."_  
