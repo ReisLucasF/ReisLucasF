@@ -9,7 +9,7 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas. Minha for
 
 💼 **Experiência Profissional:**  
 - **Fundador e CTO** de uma empresa especializada em desenvolvimento de software sob demanda, atendendo clientes do setor público e privado.  
-- Integro a **equipe de Coordenação de Canais Digitais** no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo.  
+- Integrei à **equipe de Coordenação de Canais Digitais** no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo.  
 
 📌 **Principais Projetos:**  
 - Desenvolvimento do **Website Oficial da Prefeitura de João Pessoa**.  
