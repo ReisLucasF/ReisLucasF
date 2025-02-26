@@ -8,7 +8,7 @@
 Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas. Minha formação sólida é focada em desenvolvimento de software de alta qualidade e soluções tecnológicas inovadoras.  
 
 💼 **Experiência Profissional:**  
-- **Fundador e CTO** de uma empresa especializada em desenvolvimento de software sob demanda, atendendo clientes do setor público e privado.  
+- **Fundador e CTO** da Devos Tecnologias, uma empresa especializada em desenvolvimento de software sob demanda, atendendo clientes do setor público e privado.  
 - Integrei à **equipe de Coordenação de Canais Digitais** no Banco Mercantil, onde desenvolvi diversas soluções para o ambiente corporativo.  
 
 📌 **Principais Projetos:**  
