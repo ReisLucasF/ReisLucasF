@@ -1,5 +1,5 @@
 # Lucas Reis | Desenvolvedor de Software & CTO
-<img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
+<img align="right" height="200" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
 
 🎓 **Formação Acadêmica**  
 Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
@@ -7,6 +7,7 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
 💼 **Trajetória Profissional**
 - **Fundador e CTO** da Devos Tecnologias - Desenvolvimento de software sob demanda para setores público e privado
 - **Coordenação de Canais Digitais** no Banco Mercantil - Desenvolvimento de soluções corporativas
+
 
 ## Projetos em Destaque
 
