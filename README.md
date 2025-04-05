@@ -1,7 +1,5 @@
 # Lucas Reis | Desenvolvedor de Software & CTO
-<img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/desenho%20programando.png">
-
-## Sobre mim
+<img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
 
 Desenvolvedor de software apaixonado por criar soluções tecnológicas inovadoras que combinam eficiência técnica e impacto social positivo.
 
