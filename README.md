@@ -32,13 +32,6 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisLucasF&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Diferenciais
-
-- Liderança de equipes multidisciplinares
-- Visão estratégica aliada a expertise técnica
-- Foco em desenvolvimento sustentável e escalável
-- Compromisso com prazos e qualidade de entrega
-
 ## Conecte-se comigo
 
 <div> 
