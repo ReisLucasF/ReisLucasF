@@ -1,8 +1,6 @@
 # Lucas Reis | Desenvolvedor de Software & CTO
 <img align="right" height="250" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
 
-Desenvolvedor de software apaixonado por criar soluções tecnológicas inovadoras que combinam eficiência técnica e impacto social positivo.
-
 🎓 **Formação Acadêmica**  
 Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
 
