@@ -6,6 +6,7 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
 
 💼 **Trajetória Profissional**
 - **Fundador e CTO** da Devos Tecnologias - Desenvolvimento de software sob demanda para setores público e privado
+- **Analista de Sistemas** na Domo Inovação - Desenvolvimento de soluções corporativas e Análise de Software
 - **Coordenação de Canais Digitais** no Banco Mercantil - Desenvolvimento de soluções corporativas
 
 
