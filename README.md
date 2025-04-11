@@ -1,11 +1,7 @@
-# Lucas Reis | Desenvolvedor de Software & CTO
-<img align="right" height="200" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
-
-🎓 **Formação Acadêmica**  
-Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
-
-
+# Lucas Reis 
 ## Projetos em Destaque
+
+<img align="right" height="200" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
 
 - **Website Oficial da Prefeitura de João Pessoa** - Desenvolvimento e implementação completa
 - **Sistema de Gestão Urbana (SEDURB JP)** - Otimização de processos administrativos e controle urbano
