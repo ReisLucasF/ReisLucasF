@@ -28,12 +28,6 @@ Graduado em **Análise e Desenvolvimento de Sistemas** pela PUC Minas.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
 </div>
 
-## Métricas e Contribuições
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisLucasF&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Conecte-se comigo
 
 <div> 
