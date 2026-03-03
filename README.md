@@ -3,9 +3,9 @@
 
 <img align="right" height="200" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
 
-- **Website Oficial da Prefeitura de João Pessoa** - Desenvolvimento e implementação completa
+- **Vitalo** - Desenvolvimento e implementação completa do Vitalo - sistema de protnuário eletrônico médico para a POINSP (Policlínica Integrada de Segurança Pública da Paraíba).
 - **Sistema de Gestão Urbana (SEDURB JP)** - Otimização de processos administrativos e controle urbano
-- **Sistema de Controle de Refeições Hospitalares** - Gestão eficiente para unidade de alta demanda
+- **Vitalgourmet - Sistema de Controle de Refeições Hospitalares** - Gestão eficiente para unidade de alta demanda rodando em hospitais com alta disponibilidade 24/7.
 - **Transformação Digital (ALI/SEBRAE-PB)** - Consultoria e implementação para pequenos negócios
 
 ## Conecte-se comigo
