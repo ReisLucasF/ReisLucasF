@@ -1,7 +1,7 @@
 # Lucas Reis 
 ## Projetos em Destaque
 
-<img align="right" height="200" src="https://github.com/ReisLucasF/LucasReis/blob/main/eu-e-salomao.png">
+<img align="right" height="200" alt="euesalomao" src="https://github.com/user-attachments/assets/ae918368-40f8-48a2-858e-9ed6b89fc411" />
 
 - **Vitalo** - Desenvolvimento e implementação completa do Vitalo - sistema de protnuário eletrônico médico para a POINSP (Policlínica Integrada de Segurança Pública da Paraíba).
 - **Sistema de Gestão Urbana (SEDURB JP)** - Otimização de processos administrativos e controle urbano
@@ -16,6 +16,5 @@
 
 <br>
 
-![Programming GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 > *"A tecnologia é a ponte entre ideias e soluções reais que transformam o mundo."*
