@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50" role="img" aria-label="LINKEDIN" shape-rendering="crispEdges">
+<title>LINKEDIN</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'Geist Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.blink{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".018"/></pattern>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><rect x="0" y="0" width="1" height="1" fill="#fff" opacity=".06"/></pattern>
+</defs>
+<path d="M10 6h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#7a2f12"/><path d="M4 0h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#0e0e11"/><path d="M5 1h184v4h4v34h-4v4h-184v-4h-4v-34h4z" fill="none" stroke="#ff5b1f" stroke-width="2"/><g><path fill="#ededee" d="M18 11.5h21v3h-21zM18 14.5h3v3h-3zM24 14.5h15v3h-15zM18 17.5h21v3h-21zM18 20.5h3v3h-3zM24 20.5h3v3h-3zM33 20.5h6v3h-6zM18 23.5h3v3h-3zM24 23.5h3v3h-3zM30 23.5h3v3h-3zM36 23.5h3v3h-3zM18 26.5h3v3h-3zM24 26.5h3v3h-3zM30 26.5h3v3h-3zM36 26.5h3v3h-3zM18 29.5h21v3h-21z"/></g><path fill="#ededee" d="M53 15h2v2h-2zM67 15h6v2h-6zM77 15h2v2h-2zM85 15h2v2h-2zM89 15h2v2h-2zM97 15h2v2h-2zM101 15h10v2h-10zM113 15h8v2h-8zM127 15h6v2h-6zM137 15h2v2h-2zM145 15h2v2h-2zM53 17h2v2h-2zM69 17h2v2h-2zM77 17h2v2h-2zM85 17h2v2h-2zM89 17h2v2h-2zM95 17h2v2h-2zM101 17h2v2h-2zM113 17h2v2h-2zM121 17h2v2h-2zM129 17h2v2h-2zM137 17h2v2h-2zM145 17h2v2h-2zM53 19h2v2h-2zM69 19h2v2h-2zM77 19h4v2h-4zM85 19h2v2h-2zM89 19h2v2h-2zM93 19h2v2h-2zM101 19h2v2h-2zM113 19h2v2h-2zM121 19h2v2h-2zM129 19h2v2h-2zM137 19h4v2h-4zM145 19h2v2h-2zM53 21h2v2h-2zM69 21h2v2h-2zM77 21h2v2h-2zM81 21h2v2h-2zM85 21h2v2h-2zM89 21h4v2h-4zM101 21h8v2h-8zM113 21h2v2h-2zM121 21h2v2h-2zM129 21h2v2h-2zM137 21h2v2h-2zM141 21h2v2h-2zM145 21h2v2h-2zM53 23h2v2h-2zM69 23h2v2h-2zM77 23h2v2h-2zM83 23h4v2h-4zM89 23h2v2h-2zM93 23h2v2h-2zM101 23h2v2h-2zM113 23h2v2h-2zM121 23h2v2h-2zM129 23h2v2h-2zM137 23h2v2h-2zM143 23h4v2h-4zM53 25h2v2h-2zM69 25h2v2h-2zM77 25h2v2h-2zM85 25h2v2h-2zM89 25h2v2h-2zM95 25h2v2h-2zM101 25h2v2h-2zM113 25h2v2h-2zM121 25h2v2h-2zM129 25h2v2h-2zM137 25h2v2h-2zM145 25h2v2h-2zM53 27h10v2h-10zM67 27h6v2h-6zM77 27h2v2h-2zM85 27h2v2h-2zM89 27h2v2h-2zM97 27h2v2h-2zM101 27h10v2h-10zM113 27h8v2h-8zM127 27h6v2h-6zM137 27h2v2h-2zM145 27h2v2h-2z"/><g class="blink"><path fill="#ff5b1f" d="M174 15h2v2h-2zM174 17h4v2h-4zM174 19h6v2h-6zM174 21h8v2h-8zM174 23h6v2h-6zM174 25h4v2h-4zM174 27h2v2h-2z"/></g>
+</svg>

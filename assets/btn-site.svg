@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50" role="img" aria-label="SITE" shape-rendering="crispEdges">
+<title>SITE</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'Geist Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.blink{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".018"/></pattern>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><rect x="0" y="0" width="1" height="1" fill="#fff" opacity=".06"/></pattern>
+</defs>
+<path d="M10 6h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#7a2f12"/><path d="M4 0h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#0e0e11"/><path d="M5 1h184v4h4v34h-4v4h-184v-4h-4v-34h4z" fill="none" stroke="#ff5b1f" stroke-width="2"/><g><path fill="#ededee" d="M24 11.5h9v3h-9zM21 14.5h3v3h-3zM27 14.5h3v3h-3zM33 14.5h3v3h-3zM18 17.5h21v3h-21zM18 20.5h3v3h-3zM27 20.5h3v3h-3zM36 20.5h3v3h-3zM18 23.5h21v3h-21zM21 26.5h3v3h-3zM27 26.5h3v3h-3zM33 26.5h3v3h-3zM24 29.5h9v3h-9z"/></g><path fill="#ededee" d="M55 15h8v2h-8zM67 15h6v2h-6zM77 15h10v2h-10zM89 15h10v2h-10zM53 17h2v2h-2zM69 17h2v2h-2zM81 17h2v2h-2zM89 17h2v2h-2zM53 19h2v2h-2zM69 19h2v2h-2zM81 19h2v2h-2zM89 19h2v2h-2zM55 21h6v2h-6zM69 21h2v2h-2zM81 21h2v2h-2zM89 21h8v2h-8zM61 23h2v2h-2zM69 23h2v2h-2zM81 23h2v2h-2zM89 23h2v2h-2zM61 25h2v2h-2zM69 25h2v2h-2zM81 25h2v2h-2zM89 25h2v2h-2zM53 27h8v2h-8zM67 27h6v2h-6zM81 27h2v2h-2zM89 27h10v2h-10z"/><g class="blink"><path fill="#ff5b1f" d="M174 15h2v2h-2zM174 17h4v2h-4zM174 19h6v2h-6zM174 21h8v2h-8zM174 23h6v2h-6zM174 25h4v2h-4zM174 27h2v2h-2z"/></g>
+</svg>

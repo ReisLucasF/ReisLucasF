@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50" role="img" aria-label="E-MAIL" shape-rendering="crispEdges">
+<title>E-MAIL</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'Geist Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.blink{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".018"/></pattern>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><rect x="0" y="0" width="1" height="1" fill="#fff" opacity=".06"/></pattern>
+</defs>
+<path d="M10 6h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#7a2f12"/><path d="M4 0h186v4h4v36h-4v4h-186v-4h-4v-36h4z" fill="#0e0e11"/><path d="M5 1h184v4h4v34h-4v4h-184v-4h-4v-34h4z" fill="none" stroke="#ff5b1f" stroke-width="2"/><g><path fill="#ededee" d="M18 11.5h27v3h-27zM18 14.5h6v3h-6zM39 14.5h6v3h-6zM18 17.5h3v3h-3zM24 17.5h3v3h-3zM36 17.5h3v3h-3zM42 17.5h3v3h-3zM18 20.5h3v3h-3zM27 20.5h3v3h-3zM33 20.5h3v3h-3zM42 20.5h3v3h-3zM18 23.5h3v3h-3zM30 23.5h3v3h-3zM42 23.5h3v3h-3zM18 26.5h3v3h-3zM42 26.5h3v3h-3zM18 29.5h27v3h-27z"/></g><path fill="#ededee" d="M59 15h10v2h-10zM83 15h2v2h-2zM91 15h2v2h-2zM97 15h6v2h-6zM109 15h6v2h-6zM119 15h2v2h-2zM59 17h2v2h-2zM83 17h4v2h-4zM89 17h4v2h-4zM95 17h2v2h-2zM103 17h2v2h-2zM111 17h2v2h-2zM119 17h2v2h-2zM59 19h2v2h-2zM83 19h2v2h-2zM87 19h2v2h-2zM91 19h2v2h-2zM95 19h2v2h-2zM103 19h2v2h-2zM111 19h2v2h-2zM119 19h2v2h-2zM59 21h8v2h-8zM73 21h6v2h-6zM83 21h2v2h-2zM87 21h2v2h-2zM91 21h2v2h-2zM95 21h10v2h-10zM111 21h2v2h-2zM119 21h2v2h-2zM59 23h2v2h-2zM83 23h2v2h-2zM91 23h2v2h-2zM95 23h2v2h-2zM103 23h2v2h-2zM111 23h2v2h-2zM119 23h2v2h-2zM59 25h2v2h-2zM83 25h2v2h-2zM91 25h2v2h-2zM95 25h2v2h-2zM103 25h2v2h-2zM111 25h2v2h-2zM119 25h2v2h-2zM59 27h10v2h-10zM83 27h2v2h-2zM91 27h2v2h-2zM95 27h2v2h-2zM103 27h2v2h-2zM109 27h6v2h-6zM119 27h10v2h-10z"/><g class="blink"><path fill="#ff5b1f" d="M174 15h2v2h-2zM174 17h4v2h-4zM174 19h6v2h-6zM174 21h8v2h-8zM174 23h6v2h-6zM174 25h4v2h-4zM174 27h2v2h-2z"/></g>
+</svg>
